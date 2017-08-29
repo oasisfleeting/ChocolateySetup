@@ -2,7 +2,7 @@
 iex ((new-object net.webclient).DownloadString('https://chocolatey.org/install.ps1'))
 
 # browsers
-
+#cinst GoogleChrome
 #cinst firefox-dev
 
 # utilities
@@ -13,6 +13,7 @@ cinst paint.net
 cinst winmerge
 cinst MicrosoftSecurityEssentials
 cinst internet-download-manager
+cinst neovim
 
 # developer
 cinst mobaxterm
